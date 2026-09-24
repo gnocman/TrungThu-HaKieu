@@ -370,32 +370,32 @@ const wishList = [
 
   {
     text: "Chúc em một mùa Trung Thu thật vui nhé. Hy vọng tối nay em sẽ có thật nhiều lý do để mỉm cười.",
-    img: "./assets/1.jpg",
+    img: "./assets/4.jpg",
   },
 
   {
     text: "Trung Thu là để ngắm trăng, còn anh thì hình như lại thích ngắm em hơn.",
-    img: "./assets/2.jpg",
+    img: "./assets/5.jpg",
   },
 
   {
     text: "Chúc em một đêm trăng thật dịu dàng. Nếu thiếu một người đi cùng thì cứ gọi anh nhé.",
-    img: "./assets/3.jpg",
+    img: "./assets/6.jpg",
   },
 
   {
     text: "Mong những điều tốt đẹp sẽ tìm đến em, và biết đâu trong đó có cả một người đang âm thầm thích em.",
-    img: "./assets/1.jpg",
+    img: "./assets/7.jpg",
   },
 
   {
     text: "Chúc em Trung Thu thật nhiều niềm vui, thật nhiều tiếng cười và luôn giữ được nụ cười đáng yêu ấy nhé.",
-    img: "./assets/2.jpg",
+    img: "./assets/8.jpg",
   },
 
   {
     text: "Đêm Trung Thu này anh không chúc em những điều quá xa xôi, chỉ mong em luôn vui vẻ, bình an và có anh bên cạnh khi em cần.",
-    img: "./assets/3.jpg",
+    img: "./assets/9.jpg",
   },
 ];
 
